@@ -1,0 +1,6 @@
+/*
+
+  record the audio with ALSA microphone in Linux
+  not public avalible yet
+
+*/
